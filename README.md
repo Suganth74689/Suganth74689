@@ -22,26 +22,24 @@ Currently, I'm focused on developing scalable applications, contributing to open
 
 # 👨‍💻 About Me
 
-```yaml
-Name: Suganth
-Role: Full Stack Developer
-Location: India
-Specialization: MERN Stack
-Learning: AI & System Design
-Interests:
-  - Web Development
-  - Open Source
-  - Artificial Intelligence
-  - Cloud Computing
-```
+I am a Full Stack Developer with a strong interest in building scalable and user-centric web applications. My primary expertise lies in the MERN Stack, where I enjoy developing modern, responsive, and efficient solutions to real-world problems.
 
-- 🔭 Currently working on Apartment Visitor Log System
-- 🌱 Learning Advanced Backend Development
-- 💡 Interested in AI-powered Applications
-- ⚡ Love solving real-world problems with code
-- 🎯 Goal: Become a Software Engineer at a top product company
+I am passionate about software engineering, continuous learning, and exploring emerging technologies such as Artificial Intelligence and Cloud Computing. I focus on writing clean, maintainable code and creating applications that deliver a seamless user experience.
 
----
+Currently, I am working on advanced full-stack projects, enhancing my backend development skills, and expanding my knowledge of system design and software architecture.
+
+### Professional Highlights
+
+- 💻 Full Stack Development with MERN Stack
+- 🚀 Building Real-Time Web Applications
+- 🔐 Authentication & Role-Based Access Control
+- 📊 Database Design & Optimization
+- 🤖 Exploring AI Integration in Web Applications
+- 🌱 Continuous Learning and Open Source Contribution
+
+### Career Objective
+
+To contribute to innovative software solutions, collaborate with talented teams, and continuously grow as a software engineer while creating impactful products that solve meaningful problems.
 
 # 🛠️ Tech Stack
 
