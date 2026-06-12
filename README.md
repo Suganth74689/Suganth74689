@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=SUGANTH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h1>👋 Hi, I'm Suganth</h1>
+<h1>👋 Hi, I'm SUGANTH</h1>
 
 <h3>Full Stack Developer | MERN Stack | AI Enthusiast</h3>
 
