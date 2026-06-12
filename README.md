@@ -1,10 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SUGANTH&fontSize=65&fontColor=ffffff&animation=twinkling&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=SUGANTH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
+<h1>👋 Hi, I'm Suganth</h1>
 
-<img src="https://komarev.com/ghpvc/?username=Suganth74689&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<h3>Full Stack Developer | MERN Stack | AI Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Passionate+About+Backend+Development;Exploring+Artificial+Intelligence;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+
+<br>
+
+<img src="https://img.shields.io/github/followers/Suganth74689?label=Followers&style=for-the-badge&color=0891B2"/>
+
+<img src="https://img.shields.io/github/stars/Suganth74689?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
+
+<img src="https://komarev.com/ghpvc/?username=Suganth74689&label=Profile+Views&style=for-the-badge&color=0EA5E9"/>
+
+</div>
 
 <br><br>
 
