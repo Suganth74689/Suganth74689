@@ -174,7 +174,7 @@ A comprehensive visitor management platform built using the MERN Stack.
 </a>
 
 <a href="tel:+917418110432">
-<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Phone-7418110432-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
