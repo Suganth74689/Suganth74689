@@ -81,21 +81,36 @@ To contribute to innovative software solutions, collaborate with talented teams,
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Flagship Project
 
-## 🏢 Apartment Visitor Log System
+<div align="center">
 
-A comprehensive visitor management platform built using the MERN Stack.
+# 🏢 Apartment Visitor Log System
 
-### Features
+### A Smart Security & Visitor Management Platform
 
-- JWT Authentication
-- Role-Based Access Control
-- Socket.io Real-Time Notifications
-- Visitor Entry & Exit Tracking
-- Resident Dashboard
-- Security Dashboard
-- Admin Management Panel
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-blue?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-Real--Time-black?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-success?style=for-the-badge)
+
+</div>
+
+### 🔥 Core Features
+
+| Feature | Description |
+|----------|-------------|
+| 🔐 Authentication | JWT-based secure login |
+| 👥 RBAC | Admin, Guard & Resident roles |
+| ⚡ Real-Time Updates | Instant notifications with Socket.io |
+| 📋 Visitor Tracking | Entry and Exit monitoring |
+| 🏢 Resident Portal | Visitor approvals and history |
+| 🛡️ Security Dashboard | Live visitor management |
+| 📊 Admin Panel | Complete system control |
+
+### 🚀 Impact
+
+Designed to digitize apartment visitor management by replacing manual registers with a secure, scalable, and real-time web application.
 
 ---
 
@@ -137,16 +152,6 @@ A comprehensive visitor management platform built using the MERN Stack.
 
 </div>
 
-
-# ⚡ Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suganth74689&bg_color=1a1b27&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
 
 
 
