@@ -2,71 +2,134 @@
 
 # 👋 Hi, I'm Suganth
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" />
 
-### 📌 Navigation
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-github-streak">Streak</a> •
+  <a href="#-contribution-graph">Activity</a> •
+  <a href="#-github-trophies">Trophies</a> •
+  <a href="#-connect-with-me">Contact</a>
+</p>
 
-[🏠 Home](#-introduction) •
-[👨‍💻 About](#-about-me) •
-[🛠️ Skills](#️-tech-stack) •
-[📊 Analytics](#-github-analytics) •
-[🔥 Streak](#-github-streak) •
-[📈 Activity](#-contribution-graph) •
-[🏆 Trophies](#-github-trophies) •
-[🌐 Contact](#-connect-with-me)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20My%20Profile&fontAlign=50&fontAlignY=35&color=gradient" width="100%" />
 
 </div>
 
 ---
 
-## 💫 Introduction
+# 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm a Full Stack Developer passionate about building modern web applications and exploring emerging technologies.
+Full Stack Developer specializing in the MERN Stack with hands-on experience in designing and developing scalable web applications. Passionate about creating efficient, user-focused solutions and leveraging modern technologies to solve complex business challenges.
 
----
+Strong interest in Backend Development, System Design, Artificial Intelligence, and Real-Time Applications. Committed to continuous learning, clean coding practices, and delivering high-quality software solutions.
 
-## 👨‍💻 About Me
+### Professional Highlights
 
-Full Stack Developer specializing in the MERN Stack with experience in designing, developing, and deploying scalable web applications. Passionate about software engineering, backend systems, artificial intelligence, and creating impactful digital solutions.
+- 💻 Full Stack Development with MERN Stack
+- 🚀 Building Real-Time Web Applications
+- 🔐 Authentication & Role-Based Access Control
+- 📊 Database Design & Optimization
+- 🤖 Exploring AI Integration in Web Applications
+- 🌱 Continuous Learning & Open Source Contribution
 
-- 🔭 Currently working on Apartment Visitor Log System
-- 🌱 Learning System Design & AI Integration
-- 💻 MERN Stack Developer
-- 🚀 Interested in Real-Time Applications
-- 🎯 Aspiring Software Engineer
+### Career Objective
 
----
-
-## 🛠️ Tech Stack
-
-<!-- Your skills section -->
+To contribute to innovative software solutions, collaborate with talented teams, and continuously grow as a software engineer while building impactful products that solve real-world problems.
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠️ Tech Stack
 
-<!-- Stats section -->
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,java,python,mysql" />
 
-## 🔥 GitHub Streak
-
-<!-- Streak section -->
+</div>
 
 ---
 
-## 📈 Contribution Graph
+# 🚀 Featured Projects
 
-<!-- Activity graph -->
+### 🏢 Apartment Visitor Log System
+
+A comprehensive visitor management solution built using the MERN Stack featuring:
+
+- JWT Authentication
+- Role-Based Access Control
+- Real-Time Notifications using Socket.io
+- Visitor Entry & Exit Tracking
+- Resident, Guard, and Admin Dashboards
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
-<!-- Trophy section -->
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Suganth74689&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganth74689&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 GitHub Streak
 
-<!-- Social links -->
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Suganth74689&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suganth74689&theme=tokyo-night)](https://github.com/Suganth74689)
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Suganth74689&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Suganth74689/Suganth74689/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Suganth74689">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Suganth74689&color=blueviolet&style=for-the-badge)
+
+### 🚀 Building the Future, One Commit at a Time
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
