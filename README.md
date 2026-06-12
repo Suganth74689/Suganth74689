@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=SUGANTH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h1>👋 Hi, I'm SUGANTH</h1>
-
 <h3>Full Stack Developer | MERN Stack | AI Enthusiast</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Passionate+About+Backend+Development;Exploring+Artificial+Intelligence;Open+Source+Contributor;Always+Learning+New+Technologies"/>
