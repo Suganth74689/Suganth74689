@@ -137,17 +137,6 @@ A comprehensive visitor management platform built using the MERN Stack.
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suganth74689&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 # ⚡ Coding Activity
 
