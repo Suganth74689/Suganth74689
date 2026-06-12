@@ -1,155 +1,323 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Suganth | Portfolio</title>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,100:00C9FF&text=SUGANTH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+    scroll-behavior:smooth;
+}
 
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-analytics">Analytics</a> •
-  <a href="#-github-streak">Streak</a> •
-  <a href="#-contribution-graph">Activity</a> •
-  <a href="#-github-trophies">Trophies</a> •
-  <a href="#-connect-with-me">Contact</a>
-</p>
+body{
+    background:#0f172a;
+    color:#fff;
+}
 
-<img src="https://komarev.com/ghpvc/?username=Suganth74689&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+.navbar{
+    position:fixed;
+    top:0;
+    width:100%;
+    background:rgba(15,23,42,.9);
+    backdrop-filter:blur(10px);
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 8%;
+    z-index:1000;
+}
 
+.logo{
+    font-size:28px;
+    font-weight:700;
+    color:#38bdf8;
+}
+
+.nav-links{
+    display:flex;
+    gap:25px;
+}
+
+.nav-links a{
+    color:white;
+    text-decoration:none;
+    transition:.3s;
+}
+
+.nav-links a:hover{
+    color:#38bdf8;
+}
+
+.hero{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    text-align:center;
+    padding:20px;
+}
+
+.hero h1{
+    font-size:4rem;
+    margin-bottom:10px;
+}
+
+.hero span{
+    color:#38bdf8;
+}
+
+.hero p{
+    max-width:700px;
+    color:#cbd5e1;
+    margin-bottom:30px;
+}
+
+.btn{
+    display:inline-block;
+    padding:12px 28px;
+    background:#38bdf8;
+    color:#fff;
+    border-radius:30px;
+    text-decoration:none;
+    transition:.3s;
+}
+
+.btn:hover{
+    transform:translateY(-5px);
+}
+
+section{
+    padding:100px 10%;
+}
+
+.title{
+    text-align:center;
+    font-size:2.5rem;
+    margin-bottom:50px;
+    color:#38bdf8;
+}
+
+.about{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:40px;
+    align-items:center;
+}
+
+.about-card{
+    background:#1e293b;
+    padding:30px;
+    border-radius:15px;
+}
+
+.skills{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+    gap:20px;
+}
+
+.skill{
+    background:#1e293b;
+    padding:20px;
+    text-align:center;
+    border-radius:12px;
+    transition:.3s;
+}
+
+.skill:hover{
+    transform:translateY(-8px);
+    background:#334155;
+}
+
+.projects{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+    gap:30px;
+}
+
+.project-card{
+    background:#1e293b;
+    padding:25px;
+    border-radius:15px;
+    transition:.3s;
+}
+
+.project-card:hover{
+    transform:translateY(-10px);
+}
+
+.contact{
+    text-align:center;
+}
+
+.footer{
+    text-align:center;
+    padding:30px;
+    background:#020617;
+    color:#94a3b8;
+}
+
+.typing{
+    overflow:hidden;
+    border-right:.15em solid #38bdf8;
+    white-space:nowrap;
+    animation:
+        typing 4s steps(30,end),
+        blink .75s step-end infinite;
+}
+
+@keyframes typing{
+    from{width:0}
+    to{width:100%}
+}
+
+@keyframes blink{
+    50%{border-color:transparent}
+}
+
+@media(max-width:768px){
+
+.about{
+    grid-template-columns:1fr;
+}
+
+.hero h1{
+    font-size:2.5rem;
+}
+
+.nav-links{
+    gap:12px;
+    font-size:14px;
+}
+}
+</style>
+</head>
+
+<body>
+
+<nav class="navbar">
+    <div class="logo">SUGANTH</div>
+
+    <div class="nav-links">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </div>
+</nav>
+
+<section class="hero" id="home">
+    <h1>Hello, I'm <span>Suganth</span></h1>
+
+    <h2 class="typing">
+        Full Stack Developer | MERN Stack Developer
+    </h2>
+
+    <br>
+
+    <p>
+        Passionate software developer focused on building scalable web applications,
+        real-time systems, and AI-powered solutions using modern technologies.
+    </p>
+
+    <a href="#about" class="btn">Explore More</a>
+</section>
+
+<section id="about">
+    <h2 class="title">About Me</h2>
+
+    <div class="about">
+        <div class="about-card">
+            <h3>Professional Summary</h3>
+            <br>
+            <p>
+                Full Stack Developer specializing in MERN Stack development.
+                Experienced in building modern web applications,
+                real-time systems, and secure backend architectures.
+            </p>
+        </div>
+
+        <div class="about-card">
+            <h3>Career Objective</h3>
+            <br>
+            <p>
+                To contribute to innovative software solutions,
+                continuously improve my technical expertise,
+                and create products that solve real-world problems.
+            </p>
+        </div>
+    </div>
+</section>
+
+<section id="skills">
+    <h2 class="title">Tech Stack</h2>
+
+    <div class="skills">
+        <div class="skill">HTML5</div>
+        <div class="skill">CSS3</div>
+        <div class="skill">JavaScript</div>
+        <div class="skill">React.js</div>
+        <div class="skill">Node.js</div>
+        <div class="skill">Express.js</div>
+        <div class="skill">MongoDB</div>
+        <div class="skill">Git</div>
+        <div class="skill">GitHub</div>
+        <div class="skill">Java</div>
+        <div class="skill">Python</div>
+        <div class="skill">MySQL</div>
+    </div>
+</section>
+
+<section id="projects">
+    <h2 class="title">Projects</h2>
+
+    <div class="projects">
+
+        <div class="project-card">
+            <h3>Apartment Visitor Log System</h3>
+            <br>
+            <p>
+                MERN Stack application with JWT authentication,
+                role-based access control, and real-time notifications.
+            </p>
+        </div>
+
+        <div class="project-card">
+            <h3>Future Projects</h3>
+            <br>
+            <p>
+                AI-integrated applications, cloud-based systems,
+                and enterprise-level web solutions.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+<section id="contact">
+    <h2 class="title">Contact Me</h2>
+
+    <div class="contact">
+        <p>GitHub: github.com/Suganth74689</p>
+        <br>
+        <a href="https://github.com/Suganth74689" class="btn">
+            Visit GitHub
+        </a>
+    </div>
+</section>
+
+<div class="footer">
+    © 2026 Suganth | Full Stack Developer
 </div>
 
----
-
-# 👨‍💻 About Me
-
-Full Stack Developer specializing in the MERN Stack with hands-on experience in designing and developing scalable web applications. Passionate about creating efficient, user-focused solutions and leveraging modern technologies to solve complex business challenges.
-
-Strong interest in Backend Development, System Design, Artificial Intelligence, and Real-Time Applications. Committed to continuous learning, clean coding practices, and delivering high-quality software solutions.
-
-### 🚀 Professional Highlights
-
-- 💻 Full Stack Development with MERN Stack
-- 🚀 Building Real-Time Web Applications
-- 🔐 Authentication & Role-Based Access Control
-- 📊 Database Design & Optimization
-- 🤖 Exploring AI Integration in Web Applications
-- 🌱 Continuous Learning & Open Source Contribution
-
-### 🎯 Career Objective
-
-To contribute to innovative software solutions, collaborate with talented teams, and continuously grow as a software engineer while building impactful products that solve real-world problems.
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,java,python,mysql,postman" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 🏢 Apartment Visitor Log System
-
-A comprehensive visitor management platform built using the MERN Stack.
-
-### Features
-
-- JWT Authentication
-- Role-Based Access Control
-- Socket.io Real-Time Notifications
-- Visitor Entry & Exit Tracking
-- Resident Dashboard
-- Security Dashboard
-- Admin Management Panel
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suganth74689&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganth74689&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Suganth74689&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suganth74689&theme=tokyo-night)](https://github.com/Suganth74689)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suganth74689&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📌 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suganth74689&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://github.com/Suganth74689/Suganth74689/blob/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Suganth74689">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building the Future, One Commit at a Time
-
-*"Code. Learn. Build. Repeat."*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A5ACD,100:00C9FF"/>
+</body>
+</html>
