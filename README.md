@@ -1,21 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,100:00C9FF&text=SUGANTH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SUGANTH&fontSize=65&fontColor=ffffff&animation=twinkling&color=gradient"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-analytics">Analytics</a> •
-  <a href="#-github-streak">Streak</a> •
-  <a href="#-contribution-graph">Activity</a> •
-  <a href="#-github-trophies">Trophies</a> •
-  <a href="#-connect-with-me">Contact</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Suganth74689&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=Suganth74689&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<br><br>
+
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/👨‍💻_About-00C9FF?style=for-the-badge"/>
+</a>
+
+<a href="#-tech-stack">
+<img src="https://img.shields.io/badge/🛠️_Tech_Stack-6A5ACD?style=for-the-badge"/>
+</a>
+
+<a href="#-featured-projects">
+<img src="https://img.shields.io/badge/🚀_Projects-FF6B6B?style=for-the-badge"/>
+</a>
+
+<a href="#-github-analytics">
+<img src="https://img.shields.io/badge/📊_Analytics-00B894?style=for-the-badge"/>
+</a>
+
+<a href="#-github-streak">
+<img src="https://img.shields.io/badge/🔥_Streak-E17055?style=for-the-badge"/>
+</a>
+
+<a href="#-contribution-graph">
+<img src="https://img.shields.io/badge/📈_Activity-0984E3?style=for-the-badge"/>
+</a>
+
+<a href="#-github-trophies">
+<img src="https://img.shields.io/badge/🏆_Trophies-FDCB6E?style=for-the-badge"/>
+</a>
+
+<a href="#-connect-with-me">
+<img src="https://img.shields.io/badge/🌐_Contact-8E44AD?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -40,13 +63,19 @@ Strong interest in Backend Development, System Design, Artificial Intelligence, 
 
 To contribute to innovative software solutions, collaborate with talented teams, and continuously grow as a software engineer while building impactful products that solve real-world problems.
 
+<div align="center">
+
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</div>
+
 ---
 
 # 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,java,python,mysql,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,java,python,mysql,postman"/>
 
 </div>
 
@@ -74,9 +103,17 @@ A comprehensive visitor management platform built using the MERN Stack.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suganth74689&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suganth74689&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganth74689&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganth74689&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suganth74689&theme=tokyonight"/>
 
 </div>
 
@@ -112,11 +149,11 @@ A comprehensive visitor management platform built using the MERN Stack.
 
 ---
 
-# 📌 GitHub Overview
+# ⚡ Coding Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suganth74689&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suganth74689&bg_color=1a1b27&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -137,7 +174,7 @@ A comprehensive visitor management platform built using the MERN Stack.
 <div align="center">
 
 <a href="https://github.com/Suganth74689">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -148,8 +185,10 @@ A comprehensive visitor management platform built using the MERN Stack.
 
 ### 🚀 Building the Future, One Commit at a Time
 
-*"Code. Learn. Build. Repeat."*
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A5ACD,100:00C9FF"/>
