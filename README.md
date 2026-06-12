@@ -169,18 +169,12 @@ A comprehensive visitor management platform built using the MERN Stack.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<a href="mailto:yourmail@example.com">
+<img src="https://img.shields.io/badge/Email-suganthst8@gmai.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-<div align="center">
-
-### 🚀 Building the Future, One Commit at a Time
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+<a href="tel:+917418110432">
+<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 </div>
