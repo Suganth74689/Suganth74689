@@ -159,15 +159,7 @@ A comprehensive visitor management platform built using the MERN Stack.
 
 ---
 
-# 🐍 Contribution Snake Animation
 
-<div align="center">
-
-<img src="https://github.com/Suganth74689/Suganth74689/blob/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
