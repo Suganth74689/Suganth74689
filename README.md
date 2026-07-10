@@ -26,12 +26,13 @@
 
 ## About Me
 
-I'm a Full Stack Developer specializing in the **MERN stack**, focused on building scalable, secure, and real-time web applications. I enjoy solving backend and system-design problems, and I'm actively exploring how AI can be integrated into modern web products.
+Passionate Full Stack Developer and Computer Science Engineering student focused on building scalable, user-centric web applications,
+I enjoy transforming ideas into real-world products using modern web technologies and continuously improving my problem-solving skills through coding challenges and hands-on projects.
 
-- 🔭 Currently building real-time, role-based web applications
-- 🌱 Deepening my knowledge of system design and backend architecture
-- 🤝 Open to collaboration on full stack and backend-focused projects
-- 💬 Ask me about MERN, authentication/RBAC, or real-time features with Socket.io
+-  Currently building real-time, role-based web applications
+-  Deepening my knowledge of system design and backend architecture
+-  Open to collaboration on full stack and backend-focused projects
+-  Ask me about MERN, authentication/RBAC, or real-time features with Socket.io
 
 ---
 
@@ -73,6 +74,10 @@ Digitizes apartment visitor management by replacing manual entry registers with 
 | 🛡️ Security Dashboard | Live visitor oversight for guards |
 | 📊 Admin Panel | Full system control and reporting |
 
+
+ ## KEYWORDS 
+ 
+Full Stack Developer • MERN Stack • React • Next.js • Node.js • Express.js • MongoDB • JavaScript • TypeScript • GraphQL • REST API • JWT Authentication • Git • GitHub • Responsive Web Design • Database Design • Problem Solving • Data Structures & Algorithms • Software Development
 <div align="center">
 
 <a href="https://github.com/Suganth74689"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
