@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8E2DE2,50:4A00E0,100:00C9FF&text=Suganth%20S&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=18"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Suganth+S"/>
 
 ### Full Stack Developer (MERN) · Backend & Real-Time Systems
 
