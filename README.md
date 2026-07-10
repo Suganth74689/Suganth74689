@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Suganth+S"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=SUGANTH+ST"/>
 
 ### Full Stack Developer (MERN) · Backend & Real-Time Systems
 
