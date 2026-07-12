@@ -1,11 +1,9 @@
 <div align="center">
 
 
-<div align="center">
-
-<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</div>
+<p align="center">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="800"/>
+</p>
 
 ### Full Stack Developer (MERN) · Backend & Real-Time Systems
 
