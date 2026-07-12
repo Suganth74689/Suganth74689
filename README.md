@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2000&pause=1000&center=true&width=900&lines=React.js;Node.js;MongoDB;Express.js;Java;Python;Full+Stack+Developer"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1f-bf21-f2f6e7e81d82.gif"/>
 
 ### Full Stack Developer (MERN) · Backend & Real-Time Systems
 
