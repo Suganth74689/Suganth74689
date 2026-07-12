@@ -54,16 +54,19 @@ I enjoy transforming ideas into real-world products using modern web technologie
 
 ## Featured Repository
 
-### 🏢 Apartment Visitor Log System
-**A smart security and visitor management platform built on the MERN stack**
+## 🚀 Featured Projects
 
-![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-Authentication-blue?style=flat-square)
-![Socket.io](https://img.shields.io/badge/Socket.io-Real--Time-black?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-success?style=flat-square)
+<div align="center">
 
-Digitizes apartment visitor management by replacing manual entry registers with a secure, scalable, real-time web application.
+<a href="https://github.com/Suganth74689/Apartment-Visitor-Log-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Suganth74689&repo=Apartment-Visitor-Log-System&theme=tokyonight&hide_border=true"/>
+</a>
 
+<a href="https://github.com/Suganth74689/Telemedicine-Access-for-Rural-Healthcare">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Suganth74689&repo=Telemedicine-Access-for-Rural-Healthcare&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
 | Feature | Description |
 |---|---|
 | 🔐 Authentication | Secure JWT-based login |
