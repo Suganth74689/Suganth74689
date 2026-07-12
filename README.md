@@ -1,7 +1,11 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=45&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=80&lines=Hi+👋+I'm+SUGANTH;Full+Stack+Developer;MERN+Stack+Developer;Backend+Developer;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+<div align="center">
+
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</div>
 
 ### Full Stack Developer (MERN) · Backend & Real-Time Systems
 
