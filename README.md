@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="800"/>
+<img src="https://media.tenor.com/LvLaG5hPCncAAAAC/data-code.gif" width="700"/>
 </p>
 
 ### Full Stack Developer (MERN) · Backend & Real-Time Systems
