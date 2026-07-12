@@ -1,9 +1,7 @@
 <div align="center">
 
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F5FF,100:8A2BE2&height=260&text=SUGANTH%20ST&fontSize=60&fontColor=ffffff&animation=twinkling"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2000&pause=1000&center=true&width=900&lines=React.js;Node.js;MongoDB;Express.js;Java;Python;Full+Stack+Developer"/>
 
 ### Full Stack Developer (MERN) · Backend & Real-Time Systems
 
