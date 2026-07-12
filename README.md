@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://media.tenor.com/LvLaG5hPCncAAAAC/data-code.gif" width="700"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F5FF,100:8A2BE2&height=260&text=SUGANTH%20ST&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 ### Full Stack Developer (MERN) · Backend & Real-Time Systems
