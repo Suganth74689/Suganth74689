@@ -49,12 +49,6 @@ I enjoy transforming ideas into real-world products using modern web technologie
 
 </div>
 
-**Languages:** JavaScript, Java, Python, SQL
-**Frontend:** React, HTML5, CSS3
-**Backend:** Node.js, Express.js
-**Databases:** MongoDB, MySQL
-**Tools:** Git, GitHub, Postman, VS Code
-
 ---
 
 ## Featured Repository
@@ -82,7 +76,7 @@ Digitizes apartment visitor management by replacing manual entry registers with 
 
  ## KEYWORDS 
  
-Full Stack Developer • MERN Stack • React • Next.js • Node.js • Express.js • MongoDB • JavaScript • TypeScript • GraphQL • REST API • JWT Authentication • Git • GitHub • Responsive Web Design • Database Design • Problem Solving • Data Structures & Algorithms • Software Development
+Full Stack Developer • MERN Stack • React • Next.js • Node.js • Express.js • MongoDB • JavaScript • REST API • JWT Authentication • Git • GitHub • Responsive Web Design • Database Design • Problem Solving • Data Structures & Algorithms • Software Development
 <div align="center">
 
 <a href="https://github.com/Suganth74689"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
