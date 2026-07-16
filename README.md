@@ -83,32 +83,7 @@ Full Stack Developer • MERN Stack • React • Next.js • Node.js • Expres
 
 </div>
 
----
 
-## Git Progress & Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suganth74689&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganth74689&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suganth74689&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Suganth74689&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<a href="https://github.com/Suganth74689">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suganth74689&theme=tokyo-night"/>
-</a>
-
-</div>
-
----
 
 ## Connect With Me
 
